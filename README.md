@@ -1,3 +1,1 @@
-## Template Credits
-
-[Kalpesh Krishna](https://github.com/martiansideofthemoon/martiansideofthemoon.github.io)
+Adapted from [https://github.com/academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io).
