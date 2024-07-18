@@ -1,9 +1,9 @@
 ---
-title:  "YouMVOS: An Actor-centric Multi-shot Video Object Segmentation Dataset"
-date:   2022-03-10
-image: /publications/images/YouMVOS.png
-authors: "Donglai Wei*, <strong>Siddhant Kharbanda*</strong>, Sarthak Arora, Roshan Roy2, Akash Palrecha, ... , Song Bai, James Tompkin, Philip H.S. Torr, Hanspeter Pfister"
-venue: "CVPR"
+title:  "Two-Streams: Dark and Light Networks with Graph Convolution for Action Recognition from Dark Videos"
+# date:   2022-03-10
+# image: /publications/images/YouMVOS.png
+authors: "Saurabh Suman, Nilay Naharas, Badri Narayan Subudhi, and Vinit Jakhetiya"
+venue: "AAAI"
 # bib: |
 #   @article{Doe2021,
 #     author = {Doe J.},
@@ -15,4 +15,4 @@ paper: https://openaccess.thecvf.com/content/CVPR2022/html/Wei_YouMVOS_An_Actor-
 project: https://donglaiw.github.io/proj/youMVOS/
 code: https://github.com/donglaiw/YouMVOS
 ---
-We present YouMVOS as the 1st Multi-shot video object segmentation dataset for long-scene, cross-shot videos and a Video Instance Segmentation (VIS) model which equips the Hybrid Task Cascade (HTC) architecture with pose and face re-identification modules and, achieves 39.3 mAP on YoutubeVIS'19 using a ResNet-50 backbone. 
+We propose a two-stream action recognition technique for recognizing human actions from dark videos. The proposed action recognition network consists of an image enhancement network with a Self-Calibrated Illumination (SCI) module, followed by a two-stream action recognition network. We have used R(2 + 1)D as a feature extractor for both streams with shared weights. Graph Convolutional Network (GCN), a temporal graph encoder is utilized to enhance the obtained features which are then further fed to a classification head to recognize the actions in a video. The experimental results are presented on the recent benchmark “ARID” dark-video dataset.
