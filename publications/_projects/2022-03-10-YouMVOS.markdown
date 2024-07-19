@@ -1,0 +1,18 @@
+---
+title:  "Two-Streams: Dark and Light Networks with Graph Convolution for Action Recognition from Dark Videos"
+# date:   2022-03-10
+image: /publications/images/AAAI_image.png
+authors: "Saurabh Suman, Nilay Naharas, Badri Narayan Subudhi, and Vinit Jakhetiya"
+venue: "AAAI"
+# bib: |
+#   @article{Doe2021,
+#     author = {Doe J.},
+#     journal = {A journal of imaginary research},
+#     title = {Another title of the publication},
+#     year = {2021}
+#   }
+paper: https://openaccess.thecvf.com/content/CVPR2022/html/Wei_YouMVOS_An_Actor-Centric_Multi-Shot_Video_Object_Segmentation_Dataset_CVPR_2022_paper.html
+# project: https://donglaiw.github.io/proj/youMVOS/
+# code: https://github.com/donglaiw/YouMVOS
+---
+We propose a two-stream action recognition technique for recognizing human actions from dark videos. The proposed action recognition network consists of an image enhancement network with a Self-Calibrated Illumination (SCI) module, followed by a two-stream action recognition network. We have used R(2 + 1)D as a feature extractor for both streams with shared weights. Graph Convolutional Network (GCN), a temporal graph encoder is utilized to enhance the obtained features which are then further fed to a classification head to recognize the actions in a video. The experimental results are presented on the recent benchmark “ARID” dark-video dataset.
