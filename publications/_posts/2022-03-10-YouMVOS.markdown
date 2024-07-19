@@ -1,7 +1,7 @@
 ---
 title:  "Two-Streams: Dark and Light Networks with Graph Convolution for Action Recognition from Dark Videos"
 # date:   2022-03-10
-# image: /publications/images/YouMVOS.png
+# image: /tn/publications/images/AAAI_image.png
 authors: "Saurabh Suman, Nilay Naharas, Badri Narayan Subudhi, and Vinit Jakhetiya"
 venue: "AAAI"
 # bib: |
