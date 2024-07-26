@@ -1,6 +1,6 @@
 ---
 title:  "Two-Streams: Dark and Light Networks with Graph Convolution for Action Recognition from Dark Videos"
-# date:   2022-03-10
+date:   2023-03-10
 image: /publications/images/AAAI_image.png
 authors: "Saurabh Suman, Nilay Naharas, Badri Narayan Subudhi, and Vinit Jakhetiya"
 venue: "AAAI"
@@ -11,7 +11,7 @@ venue: "AAAI"
 #     title = {Another title of the publication},
 #     year = {2021}
 #   }
-paper: https://openaccess.thecvf.com/content/CVPR2022/html/Wei_YouMVOS_An_Actor-Centric_Multi-Shot_Video_Object_Segmentation_Dataset_CVPR_2022_paper.html
+# paper: https://openaccess.thecvf.com/content/CVPR2022/html/Wei_YouMVOS_An_Actor-Centric_Multi-Shot_Video_Object_Segmentation_Dataset_CVPR_2022_paper.html
 # project: https://donglaiw.github.io/proj/youMVOS/
 # code: https://github.com/donglaiw/YouMVOS
 ---
