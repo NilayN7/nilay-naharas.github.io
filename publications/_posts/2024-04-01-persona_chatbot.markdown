@@ -1,7 +1,7 @@
 ---
 title:  "Persona Chatbot"
 date:   2024-04-01
-image: /projects/overall_pipeline_diff_orietation.png
+image: /projects/distribution.png
 authors: "Natural Language Processing Course Project"
 venue: "UCLA"
 # bib: |
