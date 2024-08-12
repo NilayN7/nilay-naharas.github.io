@@ -1,9 +1,9 @@
 ---
-title:  "QCA Technology Based 8-Bit TRNG Design for Cryptography Applications"
+title:  "DiverseDermDiff | Foundation Models for Autonomous Agents Course Project"
 # date:   2022-03-10
 image: /publications/images/qca_image.png
-authors: "Prateek Sinha, Aniket Sharma, Nilay Naharas, Syed Farah Naz, and Ambika Prasad Shah"
-venue: "VDAT 2023"
+# authors: "Prateek Sinha, Aniket Sharma, Nilay Naharas, Syed Farah Naz, and Ambika Prasad Shah"
+# venue: "VDAT 2023"
 # bib: |
 #   @article{Doe2021,
 #     author = {Doe J.},
@@ -15,4 +15,4 @@ venue: "VDAT 2023"
 # code: https://github.com/xmc-aalto/cascadexml
 # video: https://www.youtube.com/watch?v=GnB9E5zvY_E&t=88s
 ---
-We propose a novel structure of a hardware security primitive namely the True Random Number Generator (TRNG) is proposed using Quantum Cellular Automata (QCA) technology. The AND gate, XOR gate and a gate with irregular behavior are used to generate random output depending upon the AQ1 metastability of the QCA structure. Furthermore, the structure is cross-looped and asymmetrically inverted to induce additive randomness.
+Limited representation of darker skin tones in current dermatology datasets and benchmarks hinder the performance of and ability to ethically and safely deploy Artificial Intelligence for dermatology in the clinical setting. We present DiverseDermDiff a image generation pipeline for diversity evaluation in dermatology datasets by reformulating it as a classification task. DiverseDermDiff combines InstructPix2Pix and LLaVa for image generation and prompt verfification, respectivelyy. Fine‑tuned ResNet‑18 classifier on the diverse set of images led to 21.21% accuracy gains. We evaluated the diversity in HAM10k and DDI datasets.
