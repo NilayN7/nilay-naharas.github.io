@@ -6,6 +6,7 @@
     </div>
 </div>
 {% for post in publication_posts %}
+{% if post.data | date: "%Y" % 2 != 0 %}
 <div class="row py-2 publication">
     <div class="col-md-4 col-sm-12 project-thumbnail-parent" align="center">
         <img class="project-thumbnail {% if post.image_onhover %} pre-hover {% endif %}" src="{{site.baseurl}}/{{post.image}}" alt="project image" />
@@ -95,5 +96,6 @@
         {{ post.excerpt }}
     </div>
 </div>
+{% endif %}
 {% endfor %}
 {% endif %}
