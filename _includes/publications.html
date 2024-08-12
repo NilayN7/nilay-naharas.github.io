@@ -1,4 +1,4 @@
-{% assign publication_posts = site.publications.posts | contains: 'categories', 'publications', 'resume' %}
+{% assign publication_posts = site.posts | contains: 'categories', 'publications', 'resume' %}
 {% if publication_posts.size > 0 %}
 <div class="row py-2">
     <div class="col-md-12" id="publications">
