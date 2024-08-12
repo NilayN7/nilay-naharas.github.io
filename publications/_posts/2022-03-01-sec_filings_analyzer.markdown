@@ -1,7 +1,7 @@
 ---
-title:  "QCA Technology Based 8-Bit TRNG Design for Cryptography Applications"
+title:  "SEC Filings Analyzer"
 date:   2022-03-01
-image: /projects/inter_iit_tech_meet.png
+image: /projects/inter_iit_tech_meet.jpg
 authors: "Inter IIT Tech Meet 10.0"
 venue: "IIT Kharagpur"
 # bib: |
