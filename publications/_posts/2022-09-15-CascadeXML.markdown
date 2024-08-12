@@ -1,9 +1,9 @@
 ---
 title:  "QCA Technology Based 8-Bit TRNG Design for Cryptography Applications"
-# date:   2022-03-10
+date:   2023-03-10
 image: /publications/images/qca_image.png
 authors: "Prateek Sinha, Aniket Sharma, Nilay Naharas, Syed Farah Naz, and Ambika Prasad Shah"
-venue: "VDAT 2023"
+venue: "VDAT"
 # bib: |
 #   @article{Doe2021,
 #     author = {Doe J.},
