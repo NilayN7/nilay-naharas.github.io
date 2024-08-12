@@ -4,6 +4,7 @@ date:   2022-03-01
 image: /projects/inter_iit_tech_meet.jpg
 authors: "Inter IIT Tech Meet 10.0"
 venue: "IIT Kharagpur"
+category: "project"
 # bib: |
 #   @article{Doe2021,
 #     author = {Doe J.},
