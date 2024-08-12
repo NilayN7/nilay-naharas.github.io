@@ -1,9 +1,9 @@
 ---
-title:  "DiverseDermDiff | Foundation Models for Autonomous Agents Course Project"
-# date:   2022-03-10
-image: /publications/images/overall_pipeline_diff_orientation.png
-# authors: "Prateek Sinha, Aniket Sharma, Nilay Naharas, Syed Farah Naz, and Ambika Prasad Shah"
-# venue: "VDAT 2023"
+title:  "DiverseDermDiff"
+date:   2024-04-01
+image: /projects/overall_pipeline_diff_orietation.png
+authors: "Foundation Models for Autonomous Agents Course Project"
+venue: "UCLA"
 # bib: |
 #   @article{Doe2021,
 #     author = {Doe J.},
@@ -11,7 +11,7 @@ image: /publications/images/overall_pipeline_diff_orientation.png
 #     title = {Another title of the publication},
 #     year = {2021}
 #   }
-# paper: https://arxiv.org/abs/2211.00640
+paper: https://drive.google.com/file/d/1l1gyZoM2xoYLt832OaSOSnzfvVSm1GFV/view?usp=sharing
 # code: https://github.com/xmc-aalto/cascadexml
 # video: https://www.youtube.com/watch?v=GnB9E5zvY_E&t=88s
 ---
