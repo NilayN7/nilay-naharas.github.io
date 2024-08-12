@@ -1,9 +1,9 @@
 ---
-title:  "QCA Technology Based 8-Bit TRNG Design for Cryptography Applications"
+title:  "Persona Chatbot"
 # date:   2022-03-10
-image: /publications/images/qca_image.png
-authors: "Prateek Sinha, Aniket Sharma, Nilay Naharas, Syed Farah Naz, and Ambika Prasad Shah"
-venue: "VDAT 2023"
+image: /publications/images/chatbot.png
+authors: "Natural Language Processing course project"
+# venue: "VDAT 2023"
 # bib: |
 #   @article{Doe2021,
 #     author = {Doe J.},
@@ -15,4 +15,4 @@ venue: "VDAT 2023"
 # code: https://github.com/xmc-aalto/cascadexml
 # video: https://www.youtube.com/watch?v=GnB9E5zvY_E&t=88s
 ---
-We propose a novel structure of a hardware security primitive namely the True Random Number Generator (TRNG) is proposed using Quantum Cellular Automata (QCA) technology. The AND gate, XOR gate and a gate with irregular behavior are used to generate random output depending upon the AQ1 metastability of the QCA structure. Furthermore, the structure is cross-looped and asymmetrically inverted to induce additive randomness.
+The Existing literature does not focus on evaluating different aspects of Persona injection. We employ prompt tuning techniques, specifically in-context and chain-of-thought methods, to generate open-ended dialogues that closely align with the assigned personas. Then performance of our model is evaluated using a robust framework that includes metrics such as LLMEval (using 5 LLMs) for fluency and Coherency , MMLU score for reasoning ability. We also achieve better performance than human generated dialogues for Fluency and Coherency. Additionally, we evaluate the toxicity scores to ensure the generated responses are devoid of harmful content, bias, and dishonesty to further enhance the chatbot’s performance. The results demonstrate visible improvements in the chatbot’s ability to generate coherent, contextually relevant, and personaaligned dialogues.
