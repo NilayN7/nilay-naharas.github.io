@@ -1,9 +1,9 @@
 ---
-title:  "QCA Technology Based 8-Bit TRNG Design for Cryptography Applications"
+title:  "SAE eBAJA"
 # date:   2022-03-10
-image: /publications/images/qca_image.png
-authors: "Prateek Sinha, Aniket Sharma, Nilay Naharas, Syed Farah Naz, and Ambika Prasad Shah"
-venue: "VDAT 2023"
+image: /publications/images/sae.png
+authors: "Co-Head Powertrani Department | Team Kinesis"
+# venue: "VDAT 2023"
 # bib: |
 #   @article{Doe2021,
 #     author = {Doe J.},
@@ -15,4 +15,4 @@ venue: "VDAT 2023"
 # code: https://github.com/xmc-aalto/cascadexml
 # video: https://www.youtube.com/watch?v=GnB9E5zvY_E&t=88s
 ---
-We propose a novel structure of a hardware security primitive namely the True Random Number Generator (TRNG) is proposed using Quantum Cellular Automata (QCA) technology. The AND gate, XOR gate and a gate with irregular behavior are used to generate random output depending upon the AQ1 metastability of the QCA structure. Furthermore, the structure is cross-looped and asymmetrically inverted to induce additive randomness.
+I participated in the SAE eBAJA nationwide design competition. Being the Co-Head of Powertrain Department, I designed and implemented the Electric Powertrain of the All-Terrain Vehicle (E-ATV).We used a 4kW 48V PMSM motor, 48V 150A PMSM controller and 110 Ah 48V Li-ion Battery. Also installed a motor controller to regulate the speed and torque of the motor, a DC to DC converter to power auxiliary units and integrated hall sensors. Our team secured AIR 8 among 82 teams nationwide in eBAJA design competition.
