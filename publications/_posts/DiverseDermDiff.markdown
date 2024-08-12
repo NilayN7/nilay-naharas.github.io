@@ -1,7 +1,7 @@
 ---
 title:  "DiverseDermDiff | Foundation Models for Autonomous Agents Course Project"
 # date:   2022-03-10
-image: /publications/images/qca_image.png
+image: /publications/images/overall_pipeline_diff_orientation.png
 # authors: "Prateek Sinha, Aniket Sharma, Nilay Naharas, Syed Farah Naz, and Ambika Prasad Shah"
 # venue: "VDAT 2023"
 # bib: |
