@@ -1,8 +1,8 @@
 ---
 title:  "SAE eBAJA"
-# date:   2022-03-10
-image: /publications/images/sae.png
-authors: "Co-Head Powertrani Department | Team Kinesis"
+date:   2022-07-01
+image: /projects/sae_image.png
+authors: "Co-Head Powertrain Department | Team Kinesis"
 # venue: "VDAT 2023"
 # bib: |
 #   @article{Doe2021,
@@ -15,4 +15,4 @@ authors: "Co-Head Powertrani Department | Team Kinesis"
 # code: https://github.com/xmc-aalto/cascadexml
 # video: https://www.youtube.com/watch?v=GnB9E5zvY_E&t=88s
 ---
-I participated in the SAE eBAJA nationwide design competition. Being the Co-Head of Powertrain Department, I designed and implemented the Electric Powertrain of the All-Terrain Vehicle (E-ATV).We used a 4kW 48V PMSM motor, 48V 150A PMSM controller and 110 Ah 48V Li-ion Battery. Also installed a motor controller to regulate the speed and torque of the motor, a DC to DC converter to power auxiliary units and integrated hall sensors. Our team secured AIR 8 among 82 teams nationwide in eBAJA design competition.
+I participated in the SAE eBAJA nationwide design competition. Being the Co-Head of Powertrain Department, I designed and implemented the Electric Powertrain of the All-Terrain Vehicle (E-ATV).We used a 4kW 48V PMSM motor, 48V 150A PMSM controller and 110 Ah 48V Li-ion Battery. Also installed a motor controller to regulate the speed and torque of the motor, a DC to DC converter to power auxiliary units and integrated hall sensors. Our team secured **AIR 8** among 82 teams nationwide in eBAJA design competition.
