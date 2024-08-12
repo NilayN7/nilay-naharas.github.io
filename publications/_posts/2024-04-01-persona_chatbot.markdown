@@ -4,6 +4,7 @@ date:   2024-04-01
 image: /projects/distribution.png
 authors: "Natural Language Processing Course Project"
 venue: "UCLA"
+category: "project"
 # bib: |
 #   @article{Doe2021,
 #     author = {Doe J.},
