@@ -4,6 +4,7 @@ date:   2023-03-10
 image: /publications/images/AAAI_image.png
 authors: "Saurabh Suman, Nilay Naharas, Badri Narayan Subudhi, and Vinit Jakhetiya"
 venue: "AAAI"
+category: "publication"
 # bib: |
 #   @article{Doe2021,
 #     author = {Doe J.},
