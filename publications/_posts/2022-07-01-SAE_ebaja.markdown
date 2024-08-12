@@ -3,7 +3,7 @@ title:  "SAE eBAJA"
 date:   2022-07-01
 image: /projects/sae_image.png
 authors: "Co-Head Powertrain Department | Team Kinesis"
-# venue: "VDAT 2023"
+venue: "SAEINDIA"
 # bib: |
 #   @article{Doe2021,
 #     author = {Doe J.},
