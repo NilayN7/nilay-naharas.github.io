@@ -12,7 +12,9 @@ category: "publication"
 #     title = {Another title of the publication},
 #     year = {2021}
 #   }
-# paper: https://arxiv.org/abs/2211.00640
+paper: https://drive.google.com/file/d/1Z7x7jMvmVVt6aZVJTGsjxSOKpkblN50X/view?usp=sharing
+project: https://www.springerprofessional.de/en/qca-technology-based-8-bit-trng-design-for-cryptography-applicat/23838420
+slides: https://drive.google.com/file/d/1emgN-d6J484jH10wlEI_xkB4OmmYDBQ1/view?usp=sharing
 # code: https://github.com/xmc-aalto/cascadexml
 # video: https://www.youtube.com/watch?v=GnB9E5zvY_E&t=88s
 ---
